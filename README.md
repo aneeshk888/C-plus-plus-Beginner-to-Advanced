@@ -3,6 +3,7 @@
 
 ## Day 1 – Introduction to C++
 Kick things off by understanding what C++ is, why it's still so widely used, and where it fits in the world of programming. We'll also help you set up your system so you're all set to run your first C++ program.
+[DAY-1](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY1.md)
 
 ## Day 2 - Data Types and Variables
 Learn how different types of data are stored in C++, how to declare and use variables, and how constants help lock in fixed values. Also look at the handy auto keyword to make your code cleaner and easier to write.
