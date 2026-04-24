@@ -3,7 +3,7 @@
 
 ## Day 1 – Introduction to C++
 Kick things off by understanding what C++ is, why it's still so widely used, and where it fits in the world of programming. We'll also help you set up your system so you're all set to run your first C++ program.
-<br\>
+</br>
 [DAY-1](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY1.md)
 
 ## Day 2 - Data Types and Variables
