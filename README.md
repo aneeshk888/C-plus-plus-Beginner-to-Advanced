@@ -9,25 +9,25 @@ A day-by-day README for the **GeeksforGeeks Skill-Up C++** course following the 
 | Day | Topic | GFG Section |
 |---|---|---|
 | [Day 1](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY1.md) | Introduction to C++ | Day 1 |
-| [Day 2](./Day2/README.md) | Data Types & Variables | Day 2-3 |
-| [Day 3](./Day3/README.md) | Operators, References & Operator Overloading | Day 2-3 |
-| [Day 4](./Day4/README.md) | Conditional Statements | Day 4-5 |
-| [Day 5](./Day5/README.md) | Loops & Jump Statements | Day 4-5 |
-| [Day 6](./Day6/README.md) | Arrays | Day 6-8 |
-| [Day 7](./Day7/README.md) | Strings | Day 6-8 |
-| [Day 8](./Day8/README.md) | Pointers, Namespaces & Wild Pointers | Day 6-8 |
-| [Day 9](./Day9/README.md) | Functions & Function Overloading | Day 9-12 |
-| [Day 10](./Day10/README.md) | OOP: Classes, Objects & Constructors | Day 9-12 |
-| [Day 11](./Day11/README.md) | Inheritance | Day 9-12 |
-| [Day 12](./Day12/README.md) | Polymorphism, Abstraction & Encapsulation | Day 9-12 |
-| [Day 13](./Day13/README.md) | File Handling & I/O Streams | Day 13-16 |
-| [Day 14](./Day14/README.md) | Dynamic Memory & malloc vs new | Day 13-16 |
-| [Day 15](./Day15/README.md) | Templates in C++ | Day 13-16 |
-| [Day 16](./Day16/README.md) | Standard Template Library (STL) | Day 13-16 |
-| [Day 17](./Day17/README.md) | Exception Handling | Day 17-20 |
-| [Day 18](./Day18/README.md) | Signal Handling | Day 17-20 |
-| [Day 19](./Day19/README.md) | Multithreading | Day 17-20 |
-| [Day 20](./Day20/README.md) | Structs, Unions, Enums & Wrap-up | Day 17-20 |
+| [Day 2](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY2.md) | Data Types & Variables | Day 2-3 |
+| [Day 3](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY3.md) | Operators, References & Operator Overloading | Day 2-3 |
+| [Day 4](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY4.md) | Conditional Statements | Day 4-5 |
+| [Day 5](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY5.md) | Loops & Jump Statements | Day 4-5 |
+| [Day 6](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY6.md) | Arrays | Day 6-8 |
+| [Day 7](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY7.md) | Strings | Day 6-8 |
+| [Day 8](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY8.md) | Pointers, Namespaces & Wild Pointers | Day 6-8 |
+| [Day 9](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY9.md) | Functions & Function Overloading | Day 9-12 |
+| [Day 10](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY10.md) | OOP: Classes, Objects & Constructors | Day 9-12 |
+| [Day 11](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY11.md) | Inheritance | Day 9-12 |
+| [Day 12](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY12.md) | Polymorphism, Abstraction & Encapsulation | Day 9-12 |
+| [Day 13](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY13.md) | File Handling & I/O Streams | Day 13-16 |
+| [Day 14](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY14.md) | Dynamic Memory & malloc vs new | Day 13-16 |
+| [Day 15](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY15.md) | Templates in C++ | Day 13-16 |
+| [Day 16](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY16.md) | Standard Template Library (STL) | Day 13-16 |
+| [Day 17](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY17.md) | Exception Handling | Day 17-20 |
+| [Day 18](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY18.md) | Signal Handling | Day 17-20 |
+| [Day 19](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY19.md) | Multithreading | Day 17-20 |
+| [Day 20](https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY20.md) | Structs, Unions, Enums & Wrap-up | Day 17-20 |
 
 ---
 
