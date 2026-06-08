@@ -8,7 +8,7 @@ A day-by-day README for the **GeeksforGeeks Skill-Up C++** course following the 
 
 | Day | Topic | GFG Section |
 |---|---|---|
-| [Day 1)(https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY1.md) | Introduction to C++ | Day 1 |
+| [Day 1)[https://github.com/aneeshk888/C-plus-plus-Beginner-to-Advanced/blob/main/DAY1.md] | Introduction to C++ | Day 1 |
 | [Day 2](./Day2/README.md) | Data Types & Variables | Day 2-3 |
 | [Day 3](./Day3/README.md) | Operators, References & Operator Overloading | Day 2-3 |
 | [Day 4](./Day4/README.md) | Conditional Statements | Day 4-5 |
